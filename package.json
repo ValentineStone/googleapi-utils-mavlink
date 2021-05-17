@@ -1,5 +1,5 @@
 {
-  "name": "googleapi-utils-mavlink",
+  "name": "@valentine-stone/googleapi-utils-mavlink",
   "version": "1.0.0",
   "description": "A MAVLink 2 transform for @valentine-stone/googleapi-utils",
   "author": "Leonid Romanovsky <sirLeonidRomanovsky@gmail.com>",
