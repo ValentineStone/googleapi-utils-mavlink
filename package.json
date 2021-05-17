@@ -1,0 +1,15 @@
+{
+  "name": "googleapi-utils-mavlink",
+  "version": "1.0.0",
+  "description": "A MAVLink 2 transform for @valentine-stone/googleapi-utils",
+  "author": "Leonid Romanovsky <sirLeonidRomanovsky@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ValentineStone/googleapi-utils-mavlink.git"
+  },
+  "dependencies": {
+    "jspack": "^0.0.4",
+    "lodash": "^4.17.21"
+  }
+}
